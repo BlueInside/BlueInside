@@ -16,7 +16,7 @@ In addition to JavaScript, I have experience working with HTML and CSS to create
 As I continue my web development journey, I'm constantly learning and exploring new technologies and frameworks to enhance my skills. I'm particularly interested in front-end frameworks like React, which I plan to master in the future.
 
 ## 🌟 Other Interests
-Outside of web development, I love staying up-to-date with the latest industry trends and participating in online coding communities. I believe in continuous improvement and embrace challenges that help me grow both personally and professionally.
+Outside of web development, I have a few other interests that bring balance to my life. I enjoy staying fit and healthy, so you'll often find me working out or going for a run. I'm also passionate about cooking and experimenting with new recipes in the kitchen. In my downtime, I love watching movies from various genres, immersing myself in captivating stories. And when I want to unwind, I pick up my guitar and strum some tunes.
 
 ## ✉️ Contact Me
 If you have any questions, want to collaborate on a project, or simply want to connect, feel free to reach out to me. I'm always open to new opportunities and exciting projects!
